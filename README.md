@@ -1,4 +1,4 @@
-<h1>Windows 10 VM Creating and Joining to an Active Directory Domain</h1>
+<h1>Windows 10 VM Creation and Joining to an Active Directory Domain</h1>
 
 <!-- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo) -->
 
